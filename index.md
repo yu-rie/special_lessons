@@ -1,6 +1,7 @@
 ## N予備校の特別な授業動画
 
 ### 学習全般
+
 [数字で語る方法 (大杉直也)](https://www.nnn.ed.nico/lessons/482526076)
 
 [『俺好き』の駱駝先生に質問しよう！ (駱駝)](https://www.nnn.ed.nico/lessons/482527085)
@@ -43,6 +44,7 @@
 
 [白鳥士郎のさっかのおしごと！](https://www.nnn.ed.nico/lessons/482531203)
 
+
 ### ホームルーム
 
 [【2019年度】N予備校ホームルーム オリエンテーション](https://www.nnn.ed.nico/lessons/482529219)
@@ -81,9 +83,7 @@
 
 [夏の特別授業 ~3D を使った Web ページを作ってみよう~ (折原ダビデ竜/吉村総一郎)](https://www.nnn.ed.nico/lessons/482529310)
 
-[「N予備校 Webデザイン授業『カスタムキャスト 恋みくじ 〜あなたの運命の美少女は？〜』」 (イシジマミキ 小島芳樹)]
-(https://www.nnn.ed.nico/lessons/482528546)
-
+[「N予備校 Webデザイン授業『カスタムキャスト 恋みくじ 〜あなたの運命の美少女は？〜』」 (イシジマミキ 小島芳樹)](https://www.nnn.ed.nico/lessons/482528546)
 
 [折原先生の 1日で作れる！ ~Node.jsでオンラインゲーム~ （年度末特別版）](https://www.nnn.ed.nico/lessons/482529080)
 
@@ -134,6 +134,7 @@
 [ガロア理論特別講義 第11回 (講師 : 加藤文元)](https://www.nnn.ed.nico/lessons/482531208)
 
 [ガロア理論特別講義 第12回 (講師 : 加藤文元)](https://www.nnn.ed.nico/lessons/482531209)
+
 
 ### 『Foreign Affairs』で読む、世界の今
 
