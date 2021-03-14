@@ -2,13 +2,13 @@
 
 ### 学習全般
 
-[数字で語る方法 (大杉直也)](https://www.nnn.ed.nico/lessons/482526076)
+[数字で語る方法](https://www.nnn.ed.nico/lessons/482526076)
 
-[『俺好き』の駱駝先生に質問しよう！ (駱駝)](https://www.nnn.ed.nico/lessons/482527085)
+[『俺好き』の駱駝先生に質問しよう！](https://www.nnn.ed.nico/lessons/482527085)
 
-[ある言葉をその言葉を使わずに説明しよう (冲方丁)](https://www.nnn.ed.nico/lessons/482527248)
+[ある言葉をその言葉を使わずに説明しよう](https://www.nnn.ed.nico/lessons/482527248)
 
-[サイエンスのじかん (森田亮一朗、三浦淳一、吉村総一郎)](https://www.nnn.ed.nico/lessons/482528214)
+[サイエンスのじかん](https://www.nnn.ed.nico/lessons/482528214)
 
 [Ｎ予備校、夏の４時間特別生放送★](https://www.nnn.ed.nico/lessons/482528215)
 
@@ -24,7 +24,7 @@
 
 [新型コロナウィルス情報ボットを作ってみよう](https://www.nnn.ed.nico/lessons/482530894)
 
-[自分の悩みをマンガの手法で分解してみよう！ (講師 : 竹内絢香)](https://www.nnn.ed.nico/lessons/482530965)
+[自分の悩みをマンガの手法で分解してみよう！](https://www.nnn.ed.nico/lessons/482530965)
 
 [40mPのみんなの夏ソングを添削する特別授業](https://www.nnn.ed.nico/lessons/482530849)
 
@@ -77,13 +77,13 @@
 
 ### プログラミング
 
-[高橋直大の競技プログラミング入門 (高橋直大)](https://www.nnn.ed.nico/lessons/482529312)
+[高橋直大の競技プログラミング入門](https://www.nnn.ed.nico/lessons/482529312)
 
-[夏の特別授業 ~3D を使った Web ページを作ってみよう~ (折原ダビデ竜/吉村総一郎)](https://www.nnn.ed.nico/lessons/482528043)
+[夏の特別授業 3D を使った Web ページを作ってみよう](https://www.nnn.ed.nico/lessons/482528043)
 
-[夏の特別授業 ~3D を使った Web ページを作ってみよう~ (折原ダビデ竜/吉村総一郎)](https://www.nnn.ed.nico/lessons/482529310)
+[夏の特別授業 3D を使った Web ページを作ってみよう](https://www.nnn.ed.nico/lessons/482529310)
 
-[「N予備校 Webデザイン授業『カスタムキャスト 恋みくじ 〜あなたの運命の美少女は？〜』」 (イシジマミキ 小島芳樹)](https://www.nnn.ed.nico/lessons/482528546)
+[「N予備校 Webデザイン授業『カスタムキャスト 恋みくじ 〜あなたの運命の美少女は？〜』」](https://www.nnn.ed.nico/lessons/482528546)
 
 [折原先生の 1日で作れる！ ~Node.jsでオンラインゲーム~ （年度末特別版）](https://www.nnn.ed.nico/lessons/482529080)
 
